@@ -10,4 +10,4 @@ This scripts needs the Mp3Info gem:
 
 License
 -------
-This content is released under the MIT License. For more information refer to file COPYRIGHT included in this distribution.
+This content is released under the terms of the MIT License. For more information refer to file COPYRIGHT included in this distribution.
